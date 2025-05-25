@@ -58,7 +58,14 @@ This guide walks you through the process of installing Windows 11 on your comput
    Choose **Custom: Install Windows only (advanced)** for a fresh installation.
 
 5. **Partition Your Drive**  
-   If you're installing on a new system or reformatting, you’ll need to delete existing partitions on your primary drive (typically the **C: drive**) and select the unallocated space for installation. Be cautious with this step, as deleting partitions will erase all data on that drive.
+   The installer will show a list of available disks, labeled as **Disk 0**, **Disk 1**, etc. To ensure you're selecting the correct disk:
+   
+   - Look at the **Total Size** of each disk to identify the main storage drive (it will usually be the largest disk).
+   - Be cautious not to select any smaller drives or external drives (if applicable).
+   - If you're installing on a new system or reformatting, you’ll need to delete any existing partitions on the selected disk. You can do this by selecting the partition, clicking **Delete**, and confirming the deletion.
+   - Once the drive shows as **Unallocated Space**, select it and click **Next** to proceed with the installation.
+
+   > **Note:** Deleting partitions will erase all data on that drive, so double-check before proceeding.
 
 ---
 
