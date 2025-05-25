@@ -84,8 +84,8 @@ This guide walks you through the process of installing Windows 11 on your comput
 1. **Install Chipset Drivers**  
    If your SSDs do not show up during the installation, it's likely due to missing chipset drivers for your motherboard. To resolve this, you’ll need to load the drivers from your motherboard's manufacturer.
 
-2. **Download Chipset Drivers**  
-   Go to the manufacturer’s website (e.g., ASUS, MSI, Gigabyte, etc.) search up your specific model, and download the latest chipset drivers. Transfer these drivers to the USB drive with Windows (just make sure you know where you put them).
+2. **Download Chipset / Storage Controller Drivers**  
+   Go to the manufacturer’s website (e.g., ASUS, MSI, Gigabyte, etc.) search up your specific model, and download the latest controller drivers. Transfer these drivers to the USB drive with Windows (just make sure you know where you put them).
 
 3. **Load the Drivers During Installation**  
    While on the disk selection screen, click **Load Driver**. Insert the USB drive containing the chipset drivers and browse to the location of the drivers. Select them and continue.
