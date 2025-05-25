@@ -1,2 +1,3 @@
 # guides
-Somes guides I guess?
+
+Here are some guides I made, hopefully they will be of use!
