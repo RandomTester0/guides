@@ -2,6 +2,16 @@
 
 This guide walks you through the process of installing Windows 11 on your computer. Follow the steps below for a clean installation.
 
+# Table of Contents
+
+1. [Step 1: Download and Create a Windows Installation USB Drive](#step-1-download-and-create-a-windows-installation-usb-drive)
+2. [Step 2: Boot from the USB Drive](#step-2-boot-from-the-usb-drive)
+3. [Step 3: Install Windows 11](#step-3-install-windows-11)
+4. [Optional: SSD Not Showing Up?](#optional-ssd-not-showing-up)
+5. [Step 4: Out-Of-Box Experience (OOBE) Setup](#step-4-out-of-box-experience-oobe-setup)
+6. [Step 5: Finalizing Setup](#step-5-finalizing-setup)
+
+
 ## Step 1: Download and Create a Windows Installation USB Drive
 
 1. **Download Windows 11**  
