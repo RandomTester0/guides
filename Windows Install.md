@@ -10,6 +10,7 @@ This guide walks you through the process of installing Windows 11 on your comput
 4. [Optional: SSD Not Showing Up?](#optional-ssd-not-showing-up)
 5. [Step 4: Out-Of-Box Experience (OOBE) Setup](#step-4-out-of-box-experience-oobe-setup)
 6. [Step 5: Finalizing Setup](#step-5-finalizing-setup)
+7. [Extra: No WIFI?](https://github.com/RandomTester0/guides/edit/main/Windows%20Install.md#extra-no-wifi)
 
 
 ## Step 1: Download and Create a Windows Installation USB Drive
@@ -82,13 +83,13 @@ This guide walks you through the process of installing Windows 11 on your comput
 ## [Optional] SSD Not Showing Up?
 
 1. **Install Chipset Drivers**  
-   If your SSDs do not show up during the installation, it's likely due to missing chipset drivers for your motherboard. To resolve this, you’ll need to load the drivers from your motherboard's manufacturer.
+   If your SSDs do not show up during the installation, it's likely due to missing chipset or storage controller drivers for your motherboard. To resolve this, you’ll need to load the drivers from your motherboard's manufacturer.
 
 2. **Download Chipset Drivers**  
-   Go to the manufacturer’s website (e.g., ASUS, MSI, Gigabyte, etc.) and download the latest chipset drivers. Transfer these drivers to a USB drive.
+   Go to the manufacturer’s website (e.g., ASUS, MSI, Gigabyte, etc.) and download the drivers. Transfer these drivers to a USB drive.
 
 3. **Load the Drivers During Installation**  
-   While on the disk selection screen, click **Load Driver**. Insert the USB drive containing the chipset drivers and browse to the location of the drivers. Select them and continue.
+   While on the disk selection screen, click **Load Driver**. Insert the USB drive containing the chipset/storage drivers and browse to the location of the drivers. Select them and continue.
 
 4. **Continue Installation**  
    Once the drivers are loaded, your SSD should now appear as a selectable drive. Select it and click **Next** to proceed with the installation.
@@ -132,3 +133,43 @@ This guide walks you through the process of installing Windows 11 on your comput
 ---
 
 By following these steps, you should have a clean installation of Windows 11 on your computer. If you run into any issues, feel free to ask for further assistance!
+
+---
+
+### Extra: No WIFI?
+
+If you don’t see any Wi-Fi networks during or after setup, it usually means the Wi-Fi driver is missing. Here’s how to install it using another computer and a USB drive:
+
+1. **Find Your Motherboard or Laptop Model**  
+   Locate your motherboard or laptop model number. You can usually find this on a label on your device or in the documentation.
+
+2. **Download Drivers on Another Computer**  
+   Using a working computer with internet access, visit the motherboard or laptop manufacturer’s official support website. Examples include:
+   - ASUS: https://www.asus.com/support/
+   - MSI: https://www.msi.com/support
+   - Gigabyte: https://www.gigabyte.com/Support
+   - Dell: https://www.dell.com/support/
+   - HP: https://support.hp.com/
+
+3. **Search for Network/Wi-Fi Drivers**  
+   Enter your device model, then navigate to the **Drivers** or **Downloads** section. Look for the **Network** or **Wireless** driver compatible with your Windows version (e.g., Windows 11, 64-bit).
+
+4. **Download the Driver File**  
+   Download the Wi-Fi driver installer file (usually `.exe` or `.zip`).
+
+5. **Copy Drivers to a USB Drive**  
+   Transfer the downloaded driver file to a USB flash drive.
+
+6. **Install Drivers on Your New PC**  
+   Plug the USB drive into your new PC. Open **File Explorer**, find the driver file, and run the installer. Follow the on-screen instructions to complete installation.
+
+7. **Restart and Connect to Wi-Fi**  
+   Restart your PC if prompted. After reboot, click the Wi-Fi icon in the taskbar, select your network, and connect.
+
+---
+
+If you still don’t see Wi-Fi networks after this, try using a wired Ethernet connection temporarily and run Windows Update to see if the issue is fixed.
+
+---
+
+**That should be it! Please suggest any improvements to this guide so we can help more people easily install Windows.** 
