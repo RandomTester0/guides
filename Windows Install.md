@@ -144,12 +144,7 @@ If you don’t see any Wi-Fi networks during or after setup, it usually means th
    Locate your motherboard or laptop model number. You can usually find this on a label on your device or in the documentation.
 
 2. **Download Drivers on Another Computer**  
-   Using a working computer with internet access, visit the motherboard or laptop manufacturer’s official support website. Examples include:
-   - ASUS: https://www.asus.com/support/
-   - MSI: https://www.msi.com/support
-   - Gigabyte: https://www.gigabyte.com/Support
-   - Dell: https://www.dell.com/support/
-   - HP: https://support.hp.com/
+   Using a working computer with internet access, visit the motherboard or laptop manufacturer’s official support website.
 
 3. **Search for Network/Wi-Fi Drivers**  
    Enter your device model, then navigate to the **Drivers** or **Downloads** section. Look for the **Network** or **Wireless** driver compatible with your Windows version (e.g., Windows 11, 64-bit).
