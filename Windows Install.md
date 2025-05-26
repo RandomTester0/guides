@@ -92,6 +92,14 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 
 ## [Optional] SSD Not Showing Up?
 
+> ⚠️ **Important Alert:**  
+> If, immediately after booting the Windows 11 installer for version 24H2, your SSD or storage drives do **not** show up, this is a known Microsoft error specific to 24H2.  
+>  
+> This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue.  
+>  
+> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly.
+
+
 1. **Install Chipset Drivers**  
    If your SSDs do not show up during the installation, it's likely due to missing chipset or storage controller drivers for your motherboard. To resolve this, you’ll need to load the drivers from your motherboard's manufacturer.
 
