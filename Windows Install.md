@@ -26,7 +26,7 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 ## Step 1: Download and Create a Windows Installation USB Drive
 
 1. **Download Windows 11**  
-   Go to the official [Microsoft Download Page for Windows 11](https://www.microsoft.com/en-gb/software-download/windows11/).
+   Download the Media Creation Tool from Microsoft.
 
 <table>
 <tr>
