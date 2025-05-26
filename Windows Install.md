@@ -30,7 +30,7 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 
 2. **Choose Media Creation Tool**  
    Scroll down and click **Download Now** to get the **Media Creation Tool**. This tool will help you create a bootable USB drive for Windows 11 installation.
-   <img src="images/windows-download.png" alt="Windows 11 Download Page" width="600"/>
+   <img src="assets/2025-05-26_14-04.png" alt="Windows 11 Download Page" width="600"/>
 
 
 4. **Prepare a USB Drive**  
