@@ -10,7 +10,7 @@ This guide walks you through the process of installing Windows 11 on your comput
 4. [Optional: SSD Not Showing Up?](#optional-ssd-not-showing-up)
 5. [Step 4: Out-Of-Box Experience (OOBE) Setup](#step-4-out-of-box-experience-oobe-setup)
 6. [Step 5: Finalizing Setup](#step-5-finalizing-setup)
-7. [Extra: No WIFI?](https://github.com/RandomTester0/guides/edit/main/Windows%20Install.md#extra-no-wifi)
+7. [Extra: No WIFI?](#extra-no-wifi)
 
 
 ## Step 1: Download and Create a Windows Installation USB Drive
