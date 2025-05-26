@@ -1,7 +1,7 @@
 # 🖥️ How to Enter UEFI/BIOS: A Step-by-Step Guide
 
 Accessing the UEFI/BIOS is useful for configuring system settings like boot order, enabling virtualization, or updating firmware. Below are two common ways to enter the UEFI/BIOS.
-> 💡 **Quick Tip:** If your BIOS seems to be corrupted and/or causing issues, try resetting the CMOS battery. This will restore BIOS settings to factory defaults, all prior data will be lost. You can find that guide [here]()
+> 💡 **Quick Tip:** If your BIOS seems to be corrupted and/or causing issues, try resetting the CMOS battery. This will restore BIOS settings to factory defaults, all prior data will be lost. You can find that guide [here](https://github.com/RandomTester0/guides/blob/main/CMOS%20Reset.md)
 
 ---
 
