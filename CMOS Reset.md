@@ -1,6 +1,6 @@
 # 🔁 Quick Guide: How to Reset the CMOS Battery
 
-Resetting the CMOS battery can help fix unusual BIOS behavior, clear forgotten settings, or restore factory defaults.
+Resetting the CMOS can help fix unusual BIOS behavior, clear forgotten settings, or restore factory defaults.
 
 ---
 
