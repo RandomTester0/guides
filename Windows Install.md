@@ -1,6 +1,15 @@
 # Windows 11 Installation Guide
 
-This guide walks you through the process of installing Windows 11 on your computer. Follow the steps below for a clean installation.
+This guide walks you through the process of (re)installing Windows 11 on your computer. Follow the steps below for a clean installation.
+
+## For this guide, you will need
+
+- A USB flash drive with at least **8 GB** of storage (this will be used to create the Windows installation media).  
+- A working Windows computer to download Windows 11 and create the installation USB. This can be the one you will be reinstalling windows on, or another if an OS hasn't been installed on that one yet or is not working correctly.  
+- An internet connection (for downloading Windows and drivers).  
+- Your PC where you want to install Windows 11.  
+
+---
 
 # Table of Contents
 
@@ -12,6 +21,7 @@ This guide walks you through the process of installing Windows 11 on your comput
 6. [Step 5: Finalizing Setup](#step-5-finalizing-setup)
 7. [Extra: No WIFI?](#extra-no-wifi)
 
+---
 
 ## Step 1: Download and Create a Windows Installation USB Drive
 
