@@ -28,24 +28,35 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 1. **Download Windows 11**  
    Go to the official [Microsoft Download Page for Windows 11](https://www.microsoft.com/en-gb/software-download/windows11/).
 
-2. **Choose Media Creation Tool**  
-   Scroll down and click **Download Now** to get the **Media Creation Tool**. This tool will help you create a bootable USB drive for Windows 11 installation.
-   <img src="assets/2025-05-26_14-04.png" alt="Windows 11 Download Page" width="600"/>
+<table>
+<tr>
+<td>
+
+Go to the official [Microsoft Download Page for Windows 11](https://www.microsoft.com/en-gb/software-download/windows11/).  
+Click **Download Now** under "Create Windows 11 Installation Media."
+
+</td>
+<td>
+<img src="assets/2025-05-26_14-04.png" alt="Windows 11 Download Page" width="300"/>
+</td>
+</tr>
+</table>
 
 
-4. **Prepare a USB Drive**  
+
+2. **Prepare a USB Drive**  
    Insert a USB drive (minimum 8GB in size) into your computer. Make sure the USB drive has no important data, as it will be wiped during this process.
 
-5. **Run the Media Creation Tool**  
+3. **Run the Media Creation Tool**  
    Once the tool is downloaded, run it. Accept the terms and conditions, and choose the option to create installation media for another PC.
 
-6. **Select Language, Edition, and Architecture**  
+4. **Select Language, Edition, and Architecture**  
    Choose your preferred language, Windows edition, and architecture (64-bit is the most common). If you're unsure, leave the default settings selected.
 
-7. **Select USB Flash Drive**  
+5. **Select USB Flash Drive**  
    Choose "USB flash drive" when prompted. The tool will automatically detect available USB drives. Select your USB drive and click **Next**.
 
-8. **Wait for the Creation Process to Finish**  
+6. **Wait for the Creation Process to Finish**  
    The Media Creation Tool will download Windows 11 and create a bootable USB drive. This may take some time, depending on your internet speed.
 
 ---
