@@ -97,7 +97,7 @@ This guide walks you through the process of (re)installing Windows 11 on your co
 >  
 > This alert only applies if the lack of detected drives happens right away when the installer starts. If the drives fail to show up later in the process (for example, after clicking "Next" a few times), this is likely a different issue.  
 >  
-> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly.
+> To fix this, you will need to download and use the older Windows 11 23H2 installation media, which does not have this problem and should detect your drives correctly. (It might be possible to get around this by placing the 24H2 install.wim into the 23H2 installer, this hasn't been fully tested though, so be warned!)
 
 
 1. **Install Chipset Drivers**  
